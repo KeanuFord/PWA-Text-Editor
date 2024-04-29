@@ -12,7 +12,6 @@ This Progressive Web App is a text editor that allows the user to create code sn
 - [Usage](#usage)
 - [License](#license)
 - [Contribution](#contribution)
-- [Testing](#testing)
 - [Contact](#contact)
 
 ## Installation
@@ -37,10 +36,6 @@ MIT
 
 ## Contribution
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://www.contributor-covenant.org/)
-
-
-## Testing
-
 
 ## Contact
 
